@@ -1,70 +1,77 @@
-# Hi, I'm Serkan 👋
+# Serkan Ertan ![Viewed](https://komarev.com/ghpvc/?username=natrenakres)
 
-Full-stack developer focused on **developer tools, web architecture and modern frontend tooling**.
+Full-stack developer building **developer tools, productivity utilities, and modern web applications**.
 
-I have ~20 years of experience building web applications and currently work mainly with:
+I have ~20 years of experience developing web software and currently work mainly with:
 
 * **.NET / ASP.NET Core**
 * **TypeScript / JavaScript**
 * **Vue / React / Next.js**
 * **Node.js**
-* **Playwright / Testing**
+* **Playwright & automated testing**
 * **Static site tooling (Eleventy)**
 
-I enjoy building **small developer tools**, experimenting with **local-first applications**, and writing about software development.
+My focus is on **clean architecture, readable code, and practical tools that solve real developer problems.**
 
 ---
 
-## 🔧 What I Build
+## Currently Building
 
-Most of my projects fall into these areas:
-
-* **Developer tools**
-* **Testing utilities**
-* **Frontend tooling**
-* **Local-first web apps**
-
-I prefer building **small, focused tools** instead of large frameworks.
+* Local-first productivity tools
+* Developer utilities for testing and SEO
+* Experiments with static site tooling and automation
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Focusy
 
-A local-first productivity assistant designed to help developers focus on deep work.
+A local-first productivity assistant designed to support focused work.
 
-* Pomodoro based workflow
+Features:
+
+* Pomodoro-based workflow
 * Data stored locally in the browser
-* No server required
+* No backend required
+* Privacy-friendly approach
 
 ---
 
-### Experiments & Dev Tools
+### Development Experiments
 
-Various experiments around:
+This profile also contains experiments around:
 
-* Playwright testing utilities
-* static site tooling
-* developer productivity tools
-
-More coming soon.
+* Playwright automation
+* frontend tooling
+* developer workflow utilities
+* small productivity applications
 
 ---
 
-## ✍️ Writing
+## Writing & Content
 
-I write about software engineering and web development on my blog.
+I regularly write and publish content about programming and software development.
 
 Blog
 https://www.serkanertan.com
 
 Podcast
-**Alt Tarafı Bi If** – a podcast about programming and software development.
+**Alt Tarafı Bi If** — a podcast where I discuss programming concepts, software craftsmanship, and developer experience.
 
 ---
 
-## 📫 Contact
+## Philosophy
+
+I believe that:
+
+* Code should be **readable first**
+* Simplicity beats unnecessary abstraction
+* Software engineering is as much about **understanding code** as writing it
+
+---
+
+## Contact
 
 Website
 https://www.serkanertan.com
@@ -72,6 +79,4 @@ https://www.serkanertan.com
 GitHub
 https://github.com/natrenakres
 
----
 
-*"Good software is not only written. It is also read."*
