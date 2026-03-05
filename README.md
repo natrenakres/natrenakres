@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Serkan 👋
 
-<!--
-**natrenakres/natrenakres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on **developer tools, web architecture and modern frontend tooling**.
 
-Here are some ideas to get you started:
+I have ~20 years of experience building web applications and currently work mainly with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **.NET / ASP.NET Core**
+* **TypeScript / JavaScript**
+* **Vue / React / Next.js**
+* **Node.js**
+* **Playwright / Testing**
+* **Static site tooling (Eleventy)**
+
+I enjoy building **small developer tools**, experimenting with **local-first applications**, and writing about software development.
+
+---
+
+## 🔧 What I Build
+
+Most of my projects fall into these areas:
+
+* **Developer tools**
+* **Testing utilities**
+* **Frontend tooling**
+* **Local-first web apps**
+
+I prefer building **small, focused tools** instead of large frameworks.
+
+---
+
+## 🚀 Featured Projects
+
+### Focusy
+
+A local-first productivity assistant designed to help developers focus on deep work.
+
+* Pomodoro based workflow
+* Data stored locally in the browser
+* No server required
+
+---
+
+### Experiments & Dev Tools
+
+Various experiments around:
+
+* Playwright testing utilities
+* static site tooling
+* developer productivity tools
+
+More coming soon.
+
+---
+
+## ✍️ Writing
+
+I write about software engineering and web development on my blog.
+
+Blog
+https://www.serkanertan.com
+
+Podcast
+**Alt Tarafı Bi If** – a podcast about programming and software development.
+
+---
+
+## 📫 Contact
+
+Website
+https://www.serkanertan.com
+
+GitHub
+https://github.com/natrenakres
+
+---
+
+*"Good software is not only written. It is also read."*
