@@ -1,4 +1,4 @@
-# Serkan Ertan ![Viewed](https://komarev.com/ghpvc/?username=natrenakres)
+# Serkan Ertan ![Viewed](https://komarev.com/ghpvc/?username=natrenakres) ![GitHub followers](https://img.shields.io/github/followers/natrenakres) 
 
 Full-stack developer building **developer tools, productivity utilities, and modern web applications**.
 
@@ -79,4 +79,9 @@ https://www.serkanertan.com
 GitHub
 https://github.com/natrenakres
 
+---
 
+[![Serkan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natrenakres)]()
+
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=natrenakres) 
